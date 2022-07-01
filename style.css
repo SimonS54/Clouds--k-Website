@@ -18,13 +18,12 @@ h3 {
 h1 {
     margin-top: 0px;
     color: aliceblue;
-    background-color: black;
     border-radius: 15px;
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
-    margin-bottom: 50px;
-    box-shadow: 10px 5px 5px black;
+    align-items: center; */
+    margin-bottom: 0px;
+
 }
 
 .table1 {
@@ -41,4 +40,18 @@ td, th {
 h4 {
     margin: 5px;
     color: aliceblue;
+}
+
+img {
+    float: right;
+    width: 50px;
+}
+
+.top {
+    display: flex;
+    background-color: black;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: center;
+    
 }
